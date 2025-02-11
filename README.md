@@ -1,5 +1,7 @@
 # Monitoring with Grafana, Loki and Prometheus
 
+Video Tutorial: [https://youtu.be/ddZjhv66o_o](https://youtu.be/ddZjhv66o_o)
+
 ### Prerequisite
 - Basic Knowlege of Node.js and Express Framework
 - Basic to Intermediate knowledge in Docker and Containerization - [Learn Docker Containerization](https://learn.piyushgarg.dev/learn/docker)
