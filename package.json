@@ -1,0 +1,23 @@
+{
+  "name": "prom-grafana",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "prom-client": "^15.1.3",
+    "response-time": "^2.3.3",
+    "winston": "^3.17.0",
+    "winston-loki": "^6.1.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
